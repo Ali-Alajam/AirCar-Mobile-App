@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "318057519031",
+    "project_id": "air--car",
+    "storage_bucket": "air--car.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318057519031:android:890ca4f611e123f6ebba32",
+        "android_client_info": {
+          "package_name": "com.example.aircar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOH47kFC6B_mc-8Yi8kyYn8TY3bXQljVg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
